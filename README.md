@@ -1,7 +1,9 @@
 BoggleSolver
 ============
 
-Solves the game Boggle given a random board or a board you put in yourself.
+Solves the game Boggle given a random board or a board you put in yourself (not implemented yet).
+The dictionary is based on the linux /usr/share/dict/words with special character words,
+words less than three letters and words with apostrophes removed.
 
 TODO
 ============
